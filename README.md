@@ -1,1 +1,1 @@
-# examples
+Example code and documentation.
